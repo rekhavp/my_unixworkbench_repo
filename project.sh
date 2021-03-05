@@ -1,4 +1,4 @@
-:#!/usr/bin/env bash
+#!/usr/bin/env bash
 echo "Can you guess how many files in the current directory?"
 read answer1
 echo $answer1
