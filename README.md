@@ -1,3 +1,5 @@
-Project : Guessing Game 
-Wed Mar 10 17:53:33 EST 2021
-42 guessinggame.sh
+Title of the Project : Guessing Game 
+Date and Time :
+Wed Mar 10 22:54:06 EST 2021
+Number of lines  of Code:
+39

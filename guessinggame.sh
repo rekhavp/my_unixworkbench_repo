@@ -2,11 +2,8 @@
 function guess() {
 echo "Please enter your guess"
 read num
-#echo 	$num
 count=$( ls -l | wc -l )
-#echo $count
 diff=$((  $count - $num ))
-#echo $diff
 if [[ $num -gt 0 ]]
 then
 	if [[ $diff -eq 0 ]]
