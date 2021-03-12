@@ -5,10 +5,10 @@
 - You will be asked to guess and enter how many **files** are in the current directory
 - Follow the instructions on console as you proceed with the guessing game.
  
-## Enjoy my Guessing Game !!!
+### Happy Guessing !!!
  
-### Date and Time :
-Fri Mar 12 13:22:57 EST 2021
+#### Date and Time :
+Fri Mar 12 13:32:14 EST 2021
  
-### Number of lines of Code:
+#### Number of lines of Code:
 39
