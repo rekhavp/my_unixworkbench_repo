@@ -1,7 +1,7 @@
 all: README.md
 
 README.md:
-	echo "README.md file consists of the following :" >> README.md
+	echo "README.md file consists of the following :" > README.md
 	echo "Title of the Project : Guessing Game "  >> README.md
 	echo "Date and Time:">>README.md
 	date >>README.md
