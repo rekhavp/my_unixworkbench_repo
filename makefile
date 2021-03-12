@@ -10,11 +10,9 @@ README.md:
 	echo  " " >>README.md
 	echo "### Happy Guessing !!!" >>README.md
 	echo " " >>README.md
-	echo "#### Date and Time :">>README.md
-	date >>README.md
+	echo "#### Date and Time :">>README.md && date >> README.md
 	echo " " >>README.md
-	echo "#### Number of lines of Code:" >>README.md
-	cat guessinggame.sh|wc -l >> README.md
+	echo "#### Number of lines of Code:" >>README.md && cat guessinggame.sh|wc -l >> README.md
 
 clean:
 	rm README.md
